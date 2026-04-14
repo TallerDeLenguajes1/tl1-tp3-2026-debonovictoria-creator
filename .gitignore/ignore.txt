@@ -1,0 +1,12 @@
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.lib
+*.a
+*.la
+*.lo
